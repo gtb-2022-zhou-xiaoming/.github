@@ -10,7 +10,7 @@ I went to Sydney since I was 15, but it was hard for me to find any pic from tha
 
 - This was me in Christmas Eve this year:
 
-  <img src="assets/christmas.jpeg" alt="eve" width="70" />
+  <img src="assets/christmas.jpeg" alt="eve" width="80" />
 
 - I love to play tennis, though I am just new to tennis.
 
