@@ -9,11 +9,12 @@ I went to Sydney since I was 15, but it was hard for me to find any pic from tha
 <img src="assets/year 12 grad ball.jpg" alt="grad ball" width="30%" />
 
 - This was me in Christmas Eve this year:
-![this year](assets/christmas.jpeg)
+
+  <img src="assets/christmas.jpeg" alt="eve" width="70" />
 
 - I love to play tennis, though I am just new to tennis.
 
-![tennis](assets/tennis.jpeg)
+<img src="assets/tennis.jpeg" alt="tennis" width="50%" />
 
 Wish you guys all the best! 
 
