@@ -6,7 +6,7 @@ I went to Sydney since I was 15, but it was hard for me to find any pic from tha
 
 - This was me in yr 12 grad ball:
 
-![grad ball](assets/year 12 grad ball.jpg)
+<img src="assets/year 12 grad ball.jpg" alt="grad ball" width="30%" />
 
 - This was me in Christmas Eve this year:
 ![this year](assets/christmas.jpeg)
