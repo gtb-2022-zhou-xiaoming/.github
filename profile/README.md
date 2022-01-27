@@ -6,14 +6,14 @@ I went to Sydney since I was 15, but it was hard for me to find any pic from tha
 
 - This was me in yr 12 grad ball:
 
-![grad ball](/Users/zhouxiaoming/gtb/.github/profile/assets/year 12 grad ball.jpg)
+![grad ball](assets/year 12 grad ball.jpg)
 
 - This was me in Christmas Eve this year:
-![this year](/Users/zhouxiaoming/gtb/.github/profile/assets/christmas.jpeg)
+![this year](assets/christmas.jpeg)
 
 - I love to play tennis, though I am just new to tennis.
 
-![tennis](/Users/zhouxiaoming/gtb/.github/profile/assets/tennis.jpeg)
+![tennis](assets/tennis.jpeg)
 
 Wish you guys all the best! 
 
