@@ -15,8 +15,3 @@ I went to Sydney since I was 15, but it was hard for me to find any pic from tha
 - I love to play tennis, though I am just new to tennis.
 
 <img src="assets/tennis.jpeg" alt="tennis" width="50%" />
-
-Wish you guys all the best! 
-
-AND... 
-## HAPPY LUNAR NEW YEAR!!!
